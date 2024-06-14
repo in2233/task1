@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <h1>Netaji Subhas Chandra Bose</h1>
+</head>
+
+</body>
+<body>
+  
+    <header>
+       
+        <div class="image">
+          <img src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/Netaji_Subhas_Chandra_Bose_0c7f25cc32.webp" alt="Netaji Subhas Chandra Bose" height="200px"width="200px">
+      </div>
+    </header>
+    <div class="container">
+        <div class="bio">
+            <h3> Subhas Chandra Bose was an Indian nationalist whose defiance of British authority in India made him a hero among many Indians, but his wartime alliances with Nazi Germany and Imperial Japan left a legacy vexed by authoritarianism, anti-Semitism, and military failure  
+            </h3>
+        
+            <p>Subhas Chandra Bose was one of the most eminent freedom fighters of India.</p>
+            <p>Born in Cuttack, in the province of Bengal to an affluent family. He was educated in Calcutta acquiring a degree in philosophy. Subhas Chandra Bose was Selected for the Indian Civil Services (ICS) but refused to take up service since he did not want to serve the British government</p>
+        
+        <p>Bose joined the Indian National Congress (Formed on December 28, 1885) in 1921. He also started a newspaper called ‘Swaraj’.</p>
+    <p>He was the President of the All India Youth Congress and also the Secretary of the Bengal State Congress. In 1924, he became the CEO of the Calcutta Municipal Corporation. In 1930, he became the Mayor of Calcutta.</p>
+<p>Bose authored the book ‘The Indian Struggle’ which covers the Indian independence movement from 1920 to 1942. The book was banned by the British governmen</p>    
+<p>He coined the term ‘Jai Hind’. His charisma and powerful personality inspired many people into the freedom struggle and continues to inspire Indians. He was called Netaji.</p>
+</div>
+       
+    </div>
+
+</body>
+</html>
